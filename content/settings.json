@@ -1,9 +1,9 @@
 {
   "domain": "maripersonalizadosvr.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#393e46",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "cosmo",
     "custom": "_"
   },
   "bg_color": "#ffffff",
@@ -20,6 +20,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/1.jpg",
   "store_id": 37469,
-  "description": "maripersonalizadosvr",
+  "description": "Mari Personalizados Arte em Papel",
   "large_icon": "/img/uploads/1.jpg"
 }
