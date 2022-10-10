@@ -1,10 +1,10 @@
 {
   "domain": "maripersonalizadosvr.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#9cddec",
+  "primary_color": "#91dcf1",
   "theme": {
     "bootswatch": "cerulean",
-    "custom": "_"
+    "custom": "niche-flowers"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/1.jpg",
