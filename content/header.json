@@ -7,12 +7,12 @@
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 4,
     "full_width": false
   },
   "desktop_megamenu": false,
