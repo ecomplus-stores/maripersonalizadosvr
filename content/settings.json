@@ -1,9 +1,9 @@
 {
-  "domain": "maripersonalizadosvr.com.br",
+  "domain": "maripersonalizadosvr.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "#91dcf1",
   "theme": {
-    "bootswatch": "cerulean",
+    "bootswatch": "pulse",
     "custom": "niche-flowers"
   },
   "bg_color": "#ffffff",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "font_family": "Mukta",
   "favicon": "/img/uploads/1.jpg",
-  "icons_font": "font-awesome",
+  "icons_font": "line-awesome",
   "country_code": "BR",
   "secondary_color": "#f6b2dd",
   "icon": "/img/uploads/1.jpg",
