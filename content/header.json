@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "Enviamos Para Todo Brasil",
     "link": "/promotion",
-    "background": "#ffec9c"
+    "background": "#ffec9c",
+    "color": "#0b0909"
   },
   "contacts_stripe": {
     "pages": [],
