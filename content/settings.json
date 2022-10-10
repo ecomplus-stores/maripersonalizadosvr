@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#91dcf1",
   "theme": {
-    "bootswatch": "pulse",
+    "bootswatch": "litera",
     "custom": "niche-flowers"
   },
   "bg_color": "#ffffff",
@@ -13,7 +13,7 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Mukta",
+  "font_family": "Open Sans",
   "favicon": "/img/uploads/1.jpg",
   "icons_font": "line-awesome",
   "country_code": "BR",
