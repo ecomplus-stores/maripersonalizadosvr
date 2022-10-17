@@ -35,7 +35,7 @@
       "sort": "news",
       "title": "",
       "headless": false,
-      "limit": 15,
+      "limit": 3,
       "page": 2
     },
     {
