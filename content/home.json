@@ -31,12 +31,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "620f76e37963422eee0b2e20:categories:KIT FESTA:/kit-festa",
+      "collection_id": "63b4d7f34834634f73276f15:categories:ETIQUETA:/etiqueta",
       "sort": "news",
       "title": "",
       "headless": false,
       "limit": 24,
-      "page": 1
+      "page": 2
     },
     {
       "type": "page-title",
